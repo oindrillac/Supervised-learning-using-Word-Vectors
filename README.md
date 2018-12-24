@@ -19,19 +19,19 @@ I performed analysis on on a large Kaggle dataset of movie reviews from IMDB to 
 Testing the model on the dataset with 25000 features yields about 85.3% accuracy. The figure below shows the precision, recall, f1-score values on the test data.
 
 
-<img src="" height="100" title="Old">
+<img src="https://github.com/oindrillac/Supervised-learning-using-Word-Vectors/blob/master/old.jpg" height="100" title="Old">
 
 The diagram below shows the confusion matrix obtained.
 
-<img src="" title="cm1">
+<img src="https://github.com/oindrillac/Supervised-learning-using-Word-Vectors/blob/master/cm1.jpg" title="cm1">
 
 After reducing the dimension and bringing down the features to 20000, the model yields about 86% accuracy. The figure below shows the precision, recall, f1-score values on the test data.
 
-<img src="" width="500" height="100" title="Reduced">
+<img src="https://github.com/oindrillac/Supervised-learning-using-Word-Vectors/blob/master/reduced.jpg" width="500" height="100" title="Reduced">
 
 The diagram below shows the confusion matrix obtained.
 
-<img src="" width="320" height="300" title="cm2">
+<img src="https://github.com/oindrillac/Supervised-learning-using-Word-Vectors/blob/master/cm2.jpg" width="320" height="300" title="cm2">
 
 # How to run  
 
