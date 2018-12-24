@@ -23,7 +23,7 @@ Testing the model on the dataset with 25000 features yields about 85.3% accuracy
 
 The diagram below shows the confusion matrix obtained.
 
-<img src="https://github.com/oindrillac/Supervised-learning-using-Word-Vectors/blob/master/cm1.jpg" title="cm1">
+<img src="https://github.com/oindrillac/Supervised-learning-using-Word-Vectors/blob/master/cm1.jpg" width="480" height="300"  title="cm1">
 
 After reducing the dimension and bringing down the features to 20000, the model yields about 86% accuracy. The figure below shows the precision, recall, f1-score values on the test data.
 
@@ -31,7 +31,7 @@ After reducing the dimension and bringing down the features to 20000, the model 
 
 The diagram below shows the confusion matrix obtained.
 
-<img src="https://github.com/oindrillac/Supervised-learning-using-Word-Vectors/blob/master/cm2.jpg" width="320" height="300" title="cm2">
+<img src="https://github.com/oindrillac/Supervised-learning-using-Word-Vectors/blob/master/cm2.jpg" width="340" height="300" title="cm2">
 
 # How to run  
 
