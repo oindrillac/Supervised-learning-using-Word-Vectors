@@ -37,3 +37,8 @@ The diagram below shows the confusion matrix obtained.
 
 Run the project code by submitting it to spark.
 
+```
+spark-submit ClassificationRandomForest.py labeledTrainData.tsv 
+
+```
+
